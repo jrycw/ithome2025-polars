@@ -1,0 +1,8 @@
+polars
+pandas
+pyarrow
+matplotlib
+great_tables[all]
+plotnine
+highlight_text
+marimo
