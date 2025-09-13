@@ -4,5 +4,5 @@ pyarrow
 matplotlib
 great_tables[all]
 plotnine
-highlight_text
+highlight-text
 marimo
