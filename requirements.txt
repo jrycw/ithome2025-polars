@@ -5,4 +5,5 @@ matplotlib
 great_tables[all]
 plotnine
 highlight-text
+pointblank
 marimo
