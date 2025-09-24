@@ -1,0 +1,5 @@
+tbl: small_table
+steps:
+  - col_vals_le:
+      columns: a
+      value: 8
